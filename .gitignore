@@ -1,0 +1,8 @@
+family-guy-dataset/
+*.jpg
+*.gif
+parse-dataset.py
+*.ipynb
+.ipynb_checkpoints/
+
+!src/preview.jpg
