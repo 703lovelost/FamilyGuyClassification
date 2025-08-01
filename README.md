@@ -65,3 +65,7 @@ To run the inference:
 ```
 python3 infer.py [IMG_PATH]
 ```
+
+## P.S.
+
+This project is dedicated to Ivan Nikitin and his everlasting love of watching Family Guy Funny Moments compilations.
